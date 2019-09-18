@@ -1,7 +1,7 @@
 
 SLOB - The Simple Database I/O Testing Toolkit for Oracle Database
 
-Version 2.4.2.1
+Version 2.5.0
 
 Copyright (c) 1999-2017 Kevin Closson and 
 Kevin Closson d.b.a. Peak Performance Systems
@@ -9,7 +9,7 @@ Kevin Closson d.b.a. Peak Performance Systems
 The Software
 ------------
 SLOB is a collection of software, configuration files and documentation (the 
-"Software").
+"Software"). SLOB is freeware.
 
 Use
 ---
@@ -21,7 +21,7 @@ parties.
 
 Redistribution
 --------------
-Permission to redistribute the Software to third parties is not granted. The 
+Permission to redistribute the Software to third parties is *not granted*. The 
 Software is obtainable from the only authorized Software distribution locations:
 	- kevinclosson.net/slob  
 	- https://github.com/therealkevinc/SLOB_distribution
