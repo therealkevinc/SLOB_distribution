@@ -1,0 +1,5 @@
+# 
+# md5sum 2020.01.20.slob_2.5.2.3.tar.gz
+11f22b9ef44aa04337bcc7e8632aa075  2020.01.20.slob_2.5.2.3.tar.gz
+# ls -l 2020.01.20.slob_2.5.2.3.tar.gz
+-rwxrwx---. 1 root vboxsf 2723380 Jan 21 10:30 2020.01.20.slob_2.5.2.3.tar.gz
