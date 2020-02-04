@@ -1,3 +1,0 @@
-SLOB - The Simple Database I/O Testing Toolkit for Oracle Database Release 2.5.2.3
-
-Copyright (c) 1999-2017 Kevin Closson and Kevin Closson d.b.a. Peak Performance Systems
