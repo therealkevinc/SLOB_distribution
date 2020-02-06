@@ -1,0 +1,4 @@
+# 
+# md5sum 2020.01.30.slob_2.5.2.4.tar.gz
+2d4cd41f7530ac92e3f47e3ff5143cec  2020.01.30.slob_2.5.2.4.tar.gz
+# 
